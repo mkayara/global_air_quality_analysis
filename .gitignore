@@ -1,0 +1,10 @@
+/data/
+/outputs/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+FIELD_GUIDE.local.md
+Thumbs.db
+.DS_Store
